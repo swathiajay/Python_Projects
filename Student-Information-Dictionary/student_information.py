@@ -8,7 +8,7 @@ for i in range(n):
     maths = int(input("Maths marks:"))
     english = int(input("English marks:"))
     total = python+maths+english
-    average = total/3
+    average = round(total / 3, 2)
     if average>=90:
         grade = "A"
     elif average>=80:
