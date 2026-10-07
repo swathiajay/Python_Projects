@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 Python To-Do List Manager
 
 A simple and practical **Python-based To-Do List Manager** built with **Streamlit** to help users organize, track, and manage their daily tasks through an interactive web interface.
@@ -79,3 +80,60 @@ The project successfully provides a simple task-management interface that makes 
 **Swathi**
 
 Computer Science Student | Python | AI/ML | Generative AI
+=======
+# 🐍 Python Projects
+
+Welcome to my Python Projects repository!
+
+This repository contains my weekly Python programming tasks, practice programs, and mini projects. It covers Python concepts from basic programming fundamentals to advanced applications.
+
+## 🎯 Objectives
+
+- Build strong Python programming fundamentals
+- Improve problem-solving and logical thinking
+- Practice Python concepts through hands-on projects
+- Develop mini projects using Python
+- Progress from basic to advanced Python programming
+- Document my weekly learning and project work
+
+## 🛠️ Technologies Used
+
+- Python
+- VS Code
+- IDLE
+- Git
+- GitHub
+
+## 📚 Python Concepts
+
+This repository covers concepts such as:
+
+- Variables and Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Strings
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Modules
+- File Handling
+- Exception Handling
+- Object-Oriented Programming
+- Problem Solving
+- Mini Projects
+
+## 🚀 Future Plans
+
+- Add more Python projects every week
+- Practice advanced Python concepts
+- Build real-world applications
+- Improve problem-solving skills
+- Explore Python libraries and frameworks
+
+---
+
+⭐ This repository will be continuously updated with new Python projects and learning tasks.
+>>>>>>> 6cd9deaaf7fd6d17898e2d684002a256188d15b2
